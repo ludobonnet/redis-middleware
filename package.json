@@ -1,7 +1,7 @@
 {
   "name": "redis-middleware-2",
   "description": "Express Middleware for Redis",
-  "version": "1.4.2",
+  "version": "1.4.3",
   "author": "Ludovic Bonnet <ludovic@bonnet.pro> (http://bonnet.pro/)",
   "bugs": {
     "url": "https://github.com/ludobonnet/redis-middleware/issues"
