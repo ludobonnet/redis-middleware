@@ -1,10 +1,10 @@
 {
-  "name": "redis-middleware",
+  "name": "redis-middleware-2",
   "description": "Express Middleware for Redis",
-  "version": "1.4.0",
-  "author": "Italo A. Casas <me@italoacasas.com> (http://italoacasas.com/)",
+  "version": "1.4.2",
+  "author": "Ludovic Bonnet <ludovic@bonnet.pro> (http://bonnet.pro/)",
   "bugs": {
-    "url": "https://github.com/italoacasas/redis-middleware/issues"
+    "url": "https://github.com/ludobonnet/redis-middleware/issues"
   },
   "dependencies": {
     "redis": "^2.6.0-0"
@@ -14,7 +14,7 @@
     "eslint": "^3.0.0",
     "fixpack": "^2.3.1"
   },
-  "homepage": "https://github.com/italoacasas/redis-middleware#readme",
+  "homepage": "https://github.com/ludobonnet/redis-middleware#readme",
   "keywords": [
     "db",
     "express",
@@ -27,7 +27,7 @@
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/italoacasas/redis-middleware.git"
+    "url": "git+https://github.com/ludobonnet/redis-middleware.git"
   },
   "scripts": {
     "fix": "fixpack",
